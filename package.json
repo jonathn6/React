@@ -17,7 +17,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "css-loader": "^1.0.0",
     "style-loader": "^0.21.0",
-    "webpack": "^2.6.1",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^2.4.5"
   },
   "dependencies": {
@@ -34,7 +34,7 @@
     "react-router-dom": "^4.1.1",
     "redux": "^3.7.0",
     "reselect": "^3.0.1",
-    "simple-flexbox": "^1.2.0"
+    "simple-flexbox": "^2.3.3"
   },
   "babel": {
     "presets": [
